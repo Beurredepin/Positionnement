@@ -10,6 +10,6 @@ footer : ?
                                           Site Web.html
                                            Index.html
  Emulation                     Genres            Index                      Platformes                                    About
-sites, fichiers, exemples     liste defilante + exemple pour chaques   (steam)                                    Histoire, sources
+., fichiers, exemples     liste defilante + exemple pour chaques   (steam)                                    Histoire, sources
 
 <!---->
