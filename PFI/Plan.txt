@@ -1,0 +1,15 @@
+<!---->
+Plan
+Vincent Boisvert
+haut : menu defilant, background qui descent {emulation} {genres} {Platformes} (About) petit
+coter gauche : sources / hyperliens
+main : texte
+background : ?
+coter droit : ?
+footer : ?
+                                          Site Web.html
+                                           Index.html
+ Emulation                     Genres            Index                      Platformes                                    About
+sites, fichiers, exemples     liste defilante + exemple pour chaques   (steam)                                    Histoire, sources
+
+<!---->
